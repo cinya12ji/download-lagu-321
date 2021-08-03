@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://download-lagu-321.herokuapp.com/host-http-stafalagu.wapku.net/sitemap.xml
+Sitemap: https://download-lagu-321.herokuapp.com/sitemap.xml
